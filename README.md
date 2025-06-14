@@ -108,8 +108,6 @@ You can run LitLoom as a user with a pre-built app or from the source code if yo
 
 ## 📸 Screenshots
 
-![Screenshot 2025-06-08 143849](https://github.com/user-attachments/assets/3b932e58-68c0-4364-82bb-bd0e657da1f0)
-
 ![Screenshot 2025-06-08 144136](https://github.com/user-attachments/assets/61573fa3-5679-4a7a-9961-d4e7a16ba212)
 
 ![Screenshot 2025-06-08 172819](https://github.com/user-attachments/assets/b82bd086-2d57-43cd-b810-a242de21b524)
