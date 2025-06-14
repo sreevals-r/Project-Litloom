@@ -108,7 +108,7 @@ You can run LitLoom as a user with a pre-built app or from the source code if yo
 
 ## 📸 Screenshots
 
-![Screenshot 2025-06-08 144136](https://github.com/user-attachments/assets/61573fa3-5679-4a7a-9961-d4e7a16ba212)
+![First Page](https://github.com/user-attachments/assets/4efe6b75-e405-4fd7-8be8-0e4a97b1f320)
 
 ![Screenshot 2025-06-08 172819](https://github.com/user-attachments/assets/b82bd086-2d57-43cd-b810-a242de21b524)
 
@@ -125,17 +125,17 @@ Contributions are warmly welcomed! To help improve LitLoom:
 
 1. Fork the repo.
 2. Create a feature branch:
-    ```bash
-    git checkout -b feature/YourFeatureName
-    ```
+  ```bash
+  git checkout -b feature/YourFeatureName
+  ```
 3. Commit your changes:
-    ```bash
-    git commit -m "Add description of your feature"
-    ```
+  ```bash
+  git commit -m "Add description of your feature"
+  ```
 4. Push to your branch:
-    ```bash
-    git push origin feature/YourFeatureName
-    ```
+  ```bash
+  git push origin feature/YourFeatureName
+  ```
 5. Open a Pull Request and describe your improvements.
 
 ---
